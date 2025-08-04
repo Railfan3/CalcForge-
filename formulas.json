@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Addition",
+    "formula": "a + b",
+    "description": "Adds two numbers."
+  },
+  {
+    "name": "Subtraction",
+    "formula": "a - b",
+    "description": "Subtracts second number from first."
+  },
+  {
+    "name": "Multiplication",
+    "formula": "a × b",
+    "description": "Multiplies two numbers."
+  },
+  {
+    "name": "Division",
+    "formula": "a ÷ b",
+    "description": "Divides first number by second."
+  },
+  {
+    "name": "Remainder",
+    "formula": "a % b",
+    "description": "Finds remainder when a is divided by b."
+  },
+  {
+    "name": "Power",
+    "formula": "a ^ b",
+    "description": "Raises a to the power of b."
+  },
+  {
+    "name": "Square Root",
+    "formula": "√a",
+    "description": "Finds the square root of a number."
+  },
+  {
+    "name": "Factorial",
+    "formula": "n!",
+    "description": "Calculates factorial of a number n."
+  }
+]
